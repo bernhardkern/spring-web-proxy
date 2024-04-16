@@ -1,1 +1,1 @@
-curl http://localhost:9999/api/tardis-proxy 'Accept:application/json' -v
+curl http://localhost:8090/api/tardis-proxy 'Accept:application/json' -v

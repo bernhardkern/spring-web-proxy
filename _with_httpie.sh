@@ -1,1 +1,1 @@
-http :9999/api/tardis-proxy 'Accept:application/json'
+http :8090/api/tardis-proxy 'Accept:application/json'

@@ -1,4 +1,4 @@
 ### GET request with a header
 
-GET http://localhost:9999/api/tardis-proxy
+GET http://localhost:8090/api/tardis-proxy
 Accept: application/json
